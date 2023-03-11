@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Coustard:wght@400;900&family=Fredoka:wght@300;400&family=Hahmlet:wght@200;300;400&family=Lora:wght@400;500&family=Lustria&family=Nanum+Myeongjo:wght@400;700&family=Orbitron&family=Poppins:wght@200;300;400;600;700&family=Quicksand:wght@300;400;500;600;700&family=Raleway:wght@100;300;400;500;600&family=Roboto:wght@300&family=Varela+Round&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Coustard:wght@400;900&family=Fredoka:wght@300;400&family=Hahmlet:wght@200;300;400&family=IM+Fell+English+SC&family=Lora:wght@400;500&family=Lustria&family=Nanum+Myeongjo:wght@400;700&family=Orbitron&family=Poppins:wght@200;300;400;600;700&family=Quicksand:wght@300;400;500;600;700&family=Raleway:wght@100;300;400;500;600&family=Roboto:wght@100;300;400&family=Tilt+Warp&family=Varela+Round&display=swap');
 
 
 /* DEFAULT */
@@ -40,14 +39,14 @@ main .hero {
 }
 
 main h1 {
-    font-family: 'General Sans Bold 2';
-    font-weight: 700;
+    font-family: 'Tilt Warp', cursive;
+    font-weight: 400;
     font-size: 50px;
 }
 
 main .keywords {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     font-size: 12px;
     margin-top: 25px;
     color: rgba(51, 51, 51, 0.74);
@@ -99,8 +98,8 @@ main .project-info-container  {
 
 /* PROJECT OVERVIEW */
 main .project-info-container .overview-section .introduction {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     font-size: 15px;
     text-transform: uppercase;
     color: rgba(51, 51, 51, 0.74);
@@ -117,22 +116,22 @@ main .project-info-container .overview-section .grid {
 
 main .project-info-container .overview-section p {
     margin-top: 20px ;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-size: 16px;
     line-height: 40px;
 }
 
 main .project-info-container .overview-section p span {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     color: rgba(0, 0, 0, 0.791);
 }
 
 
 main .project-info-container .overview-section .grid h2 {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     font-size: 12px;
     text-transform: uppercase;
     color: rgba(51, 51, 51, 0.74);
@@ -147,7 +146,7 @@ main .project-info-container .overview-section .grid .section  {
 
 
 main .project-info-container .overview-section .grid p, .tools-list li {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-size: 14px;
     color: rgb(51, 51, 51);
@@ -163,33 +162,34 @@ main .project-info-container .overview-section .grid p, .tools-list li {
 
 main .project-info-container .design-process-section .the-design-process {
     margin-top: 100px;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
     font-size: 80px;
 
 }
 
 main .project-info-container .design-process-section .design-process-headline {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     font-size: 60px;
     color: #333;
     text-transform: lowercase;
-    margin-top: 50px;
+    margin-top: 80px;
 
   
 }
 
 
 main .project-info-container .design-process-section .design-process-subheadline{
-    font-family: 'General Sans Medium';
+    font-family: 'Tilt Warp', cursive;
+    font-weight: 400;
     font-size: 20px;
     /* color: #333; */
     color: rgba(51, 51, 51, 0.74);
     margin-top: 30px;
 
-    font-family: 'Raleway', sans-serif;
-    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     /* font-size: 20px;
     text-transform: uppercase; */
     color: rgba(51, 51, 51, 0.74);
@@ -197,7 +197,7 @@ main .project-info-container .design-process-section .design-process-subheadline
 
 
 main .project-info-container .design-process-section p {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-size: 15px;
     color: #333;
@@ -207,8 +207,8 @@ main .project-info-container .design-process-section p {
 }
 
 main .project-info-container .design-process-section span {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
 }
 
 /* QUOTE */
@@ -222,7 +222,8 @@ main .project-info-container .design-process-section .goal-quote {
 
 main .project-info-container .design-process-section .goal-quote p {
     /* font-family: 'Helvetica Now Thin'; */
-    font-family: 'General Sans Light Italic';
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     font-size: 20px;
     margin-top: 30px;
 
@@ -238,7 +239,7 @@ main .project-info-container .design-process-section .goal-quote .quote-mark-lef
     position: absolute;
     left: -50px;
     top: -30px;
-    font-family: 'Coustard Regular';
+    font-family: 'IM Fell English SC', serif;
     font-size: 70px;
     color: #42a676;
 
@@ -246,10 +247,10 @@ main .project-info-container .design-process-section .goal-quote .quote-mark-lef
 
 main .project-info-container .design-process-section .goal-quote .quote-mark-right {
     position: absolute;
-    font-family: 'Coustard Regular';
+    font-family: 'IM Fell English SC', serif;
     font-size: 70px;
-    left: 440px;
-    top: 30px;
+    left: 900px;
+    top: -30px;
     color: #42a676;
 
 }
@@ -272,8 +273,8 @@ main .project-info-container .design-process-section #style-guide {
 
 
 main .project-info-container .design-process-section .grid h6{
-    font-family: 'Raleway', sans-serif;
-    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     font-size: 12px;
     text-transform: uppercase;
     color: rgba(51, 51, 51, 0.74);
@@ -285,8 +286,8 @@ main .project-info-container .design-process-section .grid h6{
 
 main .project-info-container .design-process-section .grid .colors .color-palette, h5 {
     margin-top: 30px;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     font-size: 15px;
 }
 
@@ -303,8 +304,8 @@ main .project-info-container .design-process-section .grid .colors .color-palett
 
 main .project-info-container .design-process-section .grid .colors .color-palette p{
     font-size: 12px;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
 }
 
 
@@ -342,8 +343,8 @@ main .project-info-container .design-process-section .grid .fonts .primary-font,
 }
 
 main .project-info-container .design-process-section .grid .fonts span{
-    font-family: 'Raleway', sans-serif;
-    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
 
 }
 
